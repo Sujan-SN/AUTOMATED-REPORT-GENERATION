@@ -31,3 +31,5 @@ Additionally, the project demonstrates important programming concepts such as fi
 In conclusion, this project showcases how Python can be used to automate report generation in an efficient and scalable manner. By combining data analysis with PDF creation, it provides a complete solution for transforming raw data into meaningful and presentable reports. The project not only improves productivity but also ensures consistency and accuracy in reporting, making it a valuable tool in various professional and academic contexts.
 
 ## OUTPUT
+
+<img width="991" height="755" alt="Image" src="https://github.com/user-attachments/assets/ababec44-a520-4ade-a7b2-f10ae5fc9f44" />
